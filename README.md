@@ -1,1 +1,2 @@
-# Countries-who-hate-the-US
+# Countries who hate the US
+- USA
